@@ -1,0 +1,17 @@
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\DXT472.exe.config
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\DXT472.exe
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\DXT472.pdb
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\Microsoft.DirectX.Diagnostics.dll
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\Microsoft.DirectX.Direct3D.dll
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\Microsoft.DirectX.Direct3DX.dll
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\Microsoft.DirectX.DirectInput.dll
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\Microsoft.DirectX.dll
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\Microsoft.DirectX.xml
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\Microsoft.DirectX.Diagnostics.xml
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\Microsoft.DirectX.Direct3D.xml
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\Microsoft.DirectX.Direct3DX.xml
+D:\Apps\Programming\Projects\DXTest\DXT472\bin\Release\Microsoft.DirectX.DirectInput.xml
+D:\Apps\Programming\Projects\DXTest\DXT472\obj\Release\DXT472.csproj.CopyComplete
+D:\Apps\Programming\Projects\DXTest\DXT472\obj\Release\DXT472.exe
+D:\Apps\Programming\Projects\DXTest\DXT472\obj\Release\DXT472.pdb
+D:\Apps\Programming\Projects\DXTest\DXT472\obj\Release\DXT472.csprojAssemblyReference.cache

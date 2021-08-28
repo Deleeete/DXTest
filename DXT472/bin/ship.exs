@@ -1,0 +1,10 @@
+ship
+{
+    engines
+    {
+        UP=mk1
+        DOWN=mk1
+        LEFT=mk1
+        RIGHT=mk1
+    }
+}
